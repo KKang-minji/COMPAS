@@ -51,7 +51,7 @@
   - 위험도 점수 산정
 ```
 
-분석 도구 : R, Pyhon, QGIS, Google Maps
+분석 도구 : ```R```, ```Python```, ```QGIS```, ```Google Maps```
 
 
 ### 👀 아쉬운 점 
